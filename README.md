@@ -1,6 +1,12 @@
 # system-optimization-of-xiaomi
 分享一些小米系统优化的相关经验和信息，不涉及任何保密信息，也欢迎大家来一起交流沟通，也欢迎各位专家加入小米
 
+> 目前主要是集中在CPU任务调度，SoC频率管控，微体系架构，CPU流水线优化等方向
+> 其他系统优化领域也涉及，比如GPU，内存，IO等，欢迎沟通交流
+
+![image](https://github.com/user-attachments/assets/bb65041c-6104-4feb-ae0f-59002a4bddc8)
+
+
 # 招聘
 
 > base：北京，南京，深圳
