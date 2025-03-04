@@ -7,6 +7,9 @@
 
 **小米澎湃OS-CPU调度器优化架构师**
 
+![image](https://github.com/user-attachments/assets/b6c2b75a-249e-4344-998d-336e62d4a13e)
+
+
 职位描述
 1. 基于Linux Kernel进行调度优化，结合Android应用生态设计和优化内核调度器；
 2. 熟悉SoC资源管控机制，构建CPU/GPU/DDR/Cache等资源的统一频率管控和性能瓶颈拆解；
@@ -24,6 +27,9 @@
 5. 具有良好的团队合作精神和沟通能力，能够与其他团队合作完成项目。
 
 **Linux内核优化专家（CPU调度）**
+
+![image](https://github.com/user-attachments/assets/83d0c27a-2613-4f08-a3ff-5514c4260f08)
+
 
 职位描述
 1. 设计、实现和优化 HyperOS系统内核调度器，完成系统调度器的开发优化工作；
